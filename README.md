@@ -1,2 +1,2 @@
 # MLPro-RS
-MLPro-RS provides MLPro functionality in Rust Language.
+MLPro-RS provides [MLPro](https://github.com/fhswf/MLPro) functionalities in Rust Language.
