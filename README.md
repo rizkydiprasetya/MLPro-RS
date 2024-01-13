@@ -1,2 +1,2 @@
-# MLPro-Extension
-MLPro - Template for 3rd party extensions
+# MLPro-RS
+MLPro-RS provides MLPro functionality in Rust Language.
