@@ -55,5 +55,5 @@ This repo is currently only for examples, documentation, and binary packages. Th
 
 ## License
 
-There are two license applied on this project. MIT License is applied for examples and documentation. End-User License Agreement (EULA) is applied for the binary package.
+There are two license applied on this project. MIT License is applied for examples and documentation. End-User License Agreement (EULA) is applied for the binary package. By installing and using our binary package, you are agreed with our EULA.
 
