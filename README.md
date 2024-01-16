@@ -53,3 +53,7 @@ use mlpro_rs
 
 This repo is currently only for examples, documentation, and binary packages. The development of this library is done privately. Feel free to open up an issue.
 
+## License
+
+There are two license applied on this project. MIT License is applied for examples and documentation. End-User License Agreement (EULA) is applied for the binary package.
+
